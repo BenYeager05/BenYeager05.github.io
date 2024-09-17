@@ -1,9 +1,12 @@
 h1{
-    color: blue
+    color: rgb(255, 255, 255)
+}
+#Aboutme_info{
+    color:hsl(0, 0%, 100%)
 }
 
 body{
-    background-color:rgb(178, 238, 250)
+    background-color:rgb(0, 0, 0)
 }
 
 #content{
